@@ -26,6 +26,15 @@
             "Name": "Hilton Union Square",
             "Location__Latitude__s": 37.786164,
             "Location__Longitude__s": -122.410137
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef4"
+            },
+            "Name": "Statue of Liberty",
+            "Location__Latitude__s": 40.689247,
+            "Location__Longitude__s": -74.044502
         }
     ]
 }
